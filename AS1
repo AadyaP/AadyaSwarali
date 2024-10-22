@@ -1,0 +1,8 @@
+<HTML>
+<body>
+    <h1> My First PHP page</h1>
+    <?php
+    echo"Hello world!";
+    ?>
+</body>
+</html>
